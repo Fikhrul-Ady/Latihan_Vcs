@@ -5,7 +5,7 @@
 1. Download File Git
 
 Untuk menginstall Git, Anda perlu mengunduh file-nya terlebih dahulu di situs resminya. Download sesuai tipe sistem operasi pada komputer Anda. Apabila tipe sistem operasi komputer Anda 64bit,  pilih Git yang mendukung Windows 64bit. Tujuannya adalah agar tidak terjadi error saat proses instalasi Git.
-![image 1](screenshot/downloadgit.jpg)
+[image 1](screenshot/downloadgit.jpg)
 
 2. Install Git
 
@@ -61,9 +61,8 @@ Terdapat beberapa opsi ekstra yang bisa Anda pilih. Pertama, pilih Enable File S
 
 Setelah menambahkan konfigurasi ekstra pada Git, Anda bisa memulai proses instalasi Git. Klik Install untuk melanjutkan proses.
 ![image 12](screenshot/memulaiinstalasi.jpg)
-
 Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada Windows.
-![image 12.1](screenschot/sedangmenginstall.jpg)
+![image 12.1](screenshot/sedangmenginstall.jpg)
 
 13. Cek Versi Git
 
